@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
+<!-- tao record ten openacademy.course -->
     <record id="course_view_list" model="ir.ui.view">
         <field name="name">openacademy.course.tree</field>
         <field name="model">openacademy.course</field>
